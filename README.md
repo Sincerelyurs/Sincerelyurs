@@ -19,7 +19,7 @@ Hoping that I can design excellent smart home products in the future.
 <a href="https://www.python.org/"><code><img height="20" src="./images/Python.png"></code></a>
 <a href="https://www.java.com"><code><img height="20" src="./images/java.png"></code></a>
 <a href="https://www.cplusplus.com/"><code><img height="20" src="./images/c++.png"></code></a>
-<a href="https://www.mysql.com/"><code><img height="20" src="./images/MYSQL.png"></code></a>
+<a href="https://www.mysql.com/"><code><img height="20" src="./images/MySQL.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.djangoproject.com/"><code><img height="20" src="./images/django.png"></code></a>
 <a href="https://vuetifyjs.com/en/"><code><img height="20" src="./images/vuetify.png"></code></a>
