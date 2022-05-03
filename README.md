@@ -26,7 +26,7 @@ Hoping that I can design excellent smart home products in the future.
 <a href="https://element.eleme.io/#/zh-CN"><code><img height="20" src="./images/elementUI.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### Pinned
+### Pinned:
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Sincerelyurs&repo=SONG-LIST)](https://github.com/Sincerelyurs/SONG-LIST)
 <br><br><br>
 
@@ -34,7 +34,7 @@ Hoping that I can design excellent smart home products in the future.
 - My school email: 120090809@link.cuhk.edu.cn
 - My personal email: 1605029776@qq.com / ljx120090809@gmail.com
 
-### My Github
+### My Github:
 
 [![](https://activity-graph.herokuapp.com/graph?username=Sincerelyurs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Sincerelyurs's github stats](https://github-readme-stats.vercel.app/api?username=Sincerelyurs&show_icons=true&theme=vue)
