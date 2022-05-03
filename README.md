@@ -1,33 +1,38 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## Introduction
 
-热爱前端、热爱技术。工作经验9个月。喜欢参与一些开源项目的讨论。
+I'am Sincerely, an undergraduate student in CUHKSZ. My major is Coumpter Engineering.
+Recently I've been interested in frontend and backend development, as well as artificial intelligence. 
+Hoping that I can design excellent smart home products in the future.
 
-### **社交主页：**
+### **Social Home Page：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，7万阅读
+-   <a href="https://space.bilibili.com/259165341/"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
 
-### **技术栈:**
+### **Stack:**
 
+<a href="https://www.python.org/"><code><img height="20" src="./images/Python.png"></code></a>
+<a href="https://www.java.com"><code><img height="20" src="./images/java.png"></code></a>
+<a href="https://www.cplusplus.com/"><code><img height="20" src="./images/c++.png"></code></a>
+<a href="https://www.mysql.com/"><code><img height="20" src="./images/MYSQL.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
+<a href="https://www.djangoproject.com/"><code><img height="20" src="./images/django.png"></code></a>
+<a href="https://vuetifyjs.com/en/"><code><img height="20" src="./images/vuetify.png"></code></a>
+<a href="https://element.eleme.io/#/zh-CN"><code><img height="20" src="./images/elementUI.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### Repo
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Sincerelyurs&repo=SONG-LIST)](https://github.com/Sincerelyurs/SONG-LIST)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Sincerelyurs&repo=5-stages-pipelined-CPU)](https://github.com/Sincerelyurs/5-stages-pipelined-CPU)
 <br><br><br>
 
-### Github 活跃度
+### My Github
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=Sincerelyurs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Sincerelyurs&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sincerelyurs)
