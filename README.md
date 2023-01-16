@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'am Sincerely, an undergraduate student in CUHKSZ. My major is Coumpter Engineering.
+I'am Sincerely, a student in CUHKSZ. My major is Coumpter Engineering.
 <br>
 Recently I've been interested in frontend and backend development, as well as artificial intelligence. 
 <br>
