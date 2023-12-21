@@ -2,11 +2,7 @@
 
 ## About Me
 
-I'am Sincerely, a student in CUHKSZ. My major is Coumpter Engineering.
-<br>
-Recently I've been interested in frontend and backend development, as well as artificial intelligence. 
-<br>
-Hoping that I can design excellent smart home products in the future.
+I'am Sincerely, currently a front and back end development engineer. I graduated from CUHKSZ and plan to go to CUHK for postgraduate study in the next two years. At the same time, I am also interested in artificial intelligence.
 
 ### **Social Home Page：**
 
